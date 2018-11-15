@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomAppointmentForm.cs](./CS/CustomAppointmentFormWithSeconds/CustomAppointmentForm.cs) (VB: [CustomAppointmentForm.vb](./VB/CustomAppointmentFormWithSeconds/CustomAppointmentForm.vb))
+* [Form1.cs](./CS/CustomAppointmentFormWithSeconds/Form1.cs) (VB: [Form1.vb](./VB/CustomAppointmentFormWithSeconds/Form1.vb))
+<!-- default file list end -->
 # How to change format for entering time value in the appointment editing form
 
 
